@@ -1,1 +1,18 @@
-298
+L2TP测试
+l2tp  realmeh-big.oicp.io
+预共享密钥 Ux1mMfggOFKiC7cU1drDkyJIXq0z54G6
+pc到站  2E7NNJ9e  jQwypl9fC3Nb6PRB
+ping 10.25.206.11是否通畅，延时多长
+ssh heyanjun@10.25.206.11是否正常
+
+PPTP测试
+ces1
+ces1
+ja01.adslip.cc
+cd01.adslip.cc
+hbwh.adslip.cc
+sjz01.adslip.cc
+
+33364
+33364
+zjnb67.i234.org
